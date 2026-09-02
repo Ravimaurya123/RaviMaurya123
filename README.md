@@ -1,4 +1,4 @@
-# Hi, I'm Ravikant Singh 👋
+# Hi, I'm Ravi Kant Singh 👋
 
 ### Full-Stack Developer | B.Tech CSE | Problem Solver
 
