@@ -1,8 +1,8 @@
-# Hi, I'm Ravi Kant Singh 👋
+# Hi, I'm Ravikant Singh 👋
 
 ### Full-Stack Developer | B.Tech CSE | Problem Solver
 
-I’m a Computer Science Engineering student passionate about building practical, scalable, and user-friendly web applications. I enjoy developing both frontend and backend systems while continuously improving my Data Structures, Algorithms, and software engineering skills.
+I'm a Computer Science Engineering student passionate about building practical, scalable, and user-friendly web applications. I enjoy working on both frontend and backend systems while continuously improving my Data Structures, Algorithms, and software engineering skills.
 
 ---
 
@@ -14,7 +14,7 @@ I’m a Computer Science Engineering student passionate about building practical
 * ⚛️ Working with React.js and Next.js
 * 🛠️ Building backend applications with Node.js and Express.js
 * 🗄️ Working with MongoDB and REST APIs
-* 🌱 Currently learning Backend Development and System Design
+* 🌱 Currently improving Backend Development and System Design
 * 🎯 Preparing for Software Engineering opportunities
 
 ---
@@ -67,7 +67,7 @@ A full-stack platform designed to improve coordination between users and emergen
 
 ### 🛒 Smart E-Commerce Platform
 
-A modern full-stack e-commerce application focused on a smooth shopping experience and scalable architecture.
+A modern full-stack e-commerce application focused on providing a smooth shopping experience with a scalable architecture.
 
 **Tech Stack:**
 `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB`
@@ -118,6 +118,14 @@ I regularly practice DSA to improve my problem-solving skills and algorithmic th
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ravimaurya123/Ravimaurya123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 * Full-Stack Web Development
@@ -147,9 +155,11 @@ I regularly practice DSA to improve my problem-solving skills and algorithmic th
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
+
   <a href="YOUR_LEETCODE_URL">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
@@ -162,5 +172,5 @@ I regularly practice DSA to improve my problem-solving skills and algorithmic th
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  ⭐ Thanks for visiting my profile!
 </p>
