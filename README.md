@@ -122,6 +122,32 @@ I regularly practice DSA to improve my problem-solving skills and algorithmic th
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ravimaurya123/Ravimaurya123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Ravimaurya123
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </p>
 
 ---
