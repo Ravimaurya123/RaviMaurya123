@@ -1,221 +1,166 @@
-<div align="center">
+# Hi, I'm Ravikant Singh 👋
 
-# 👋 Hi, I'm Ravikant Singh
+### Full-Stack Developer | B.Tech CSE | Problem Solver
 
-### 💻 Full-Stack Developer | B.Tech CSE (AI & ML) | Problem Solver
-
-<p>
-  <a href="https://github.com/Ravimaurya123">
-    <img src="https://img.shields.io/badge/GitHub-Ravimaurya123-181717?style=for-the-badge&logo=github">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Ravimaurya123&style=for-the-badge&color=blue" alt="Profile Views">
-</p>
-
-<p>
-  <b>Building real-world applications • Solving problems • Learning every day</b>
-</p>
-
-</div>
+I’m a Computer Science Engineering student passionate about building practical, scalable, and user-friendly web applications. I enjoy developing both frontend and backend systems while continuously improving my Data Structures, Algorithms, and software engineering skills.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering (AI & ML) student** passionate about building modern, scalable and user-focused applications.
-
-I enjoy turning ideas into real-world projects using modern web technologies and continuously improving my **Data Structures & Algorithms** and software engineering skills.
-
-* 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
-* 💻 Full-Stack Web Development enthusiast
-* ⚡ Working with **Next.js, React.js, Node.js & TypeScript**
-* 🧠 Practicing **DSA & Problem Solving**
-* 🚀 Interested in building scalable applications
-* 🎯 Preparing for **Software Engineering Internships & Placements**
+* 🎓 B.Tech in Computer Science Engineering
+* 💻 Focused on Full-Stack Web Development
+* 🧠 Practicing Data Structures & Algorithms
+* ⚛️ Working with React.js and Next.js
+* 🛠️ Building backend applications with Node.js and Express.js
+* 🗄️ Working with MongoDB and REST APIs
+* 🌱 Currently learning Backend Development and System Design
+* 🎯 Preparing for Software Engineering opportunities
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👨‍💻 Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" />
-</p>
+`Java` · `C++` · `Python` · `JavaScript` · `TypeScript`
 
-### 🎨 Frontend
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+`HTML` · `CSS` · `React.js` · `Next.js` · `Tailwind CSS`
 
-### ⚙️ Backend & Database
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio" />
-</p>
+`Node.js` · `Express.js` · `Socket.io` · `REST APIs`
 
-### 🔧 Tools
+### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
+`MongoDB` · `Mongoose`
+
+### Tools & Platforms
+
+`Git` · `GitHub` · `VS Code` · `Vercel` · `Render`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌐 RescueNet — Real-Time Disaster Management Platform
+### 🚨 RescueNet
 
-A full-stack disaster management platform designed to improve coordination between users and emergency response agencies.
+**Real-Time Disaster Management Platform**
 
-**Tech Stack**
+A full-stack platform designed to improve coordination between users and emergency response agencies.
 
+**Tech Stack:**
 `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Leaflet.js`
 
-### Key Features
+**Key Features:**
 
-* 📍 Real-time agency location tracking
-* 🚑 Police, Fire, Medical & NGO management
-* 🗺️ Interactive geospatial mapping
-* ⚡ Real-time updates using Socket.io
-* 🔗 RESTful APIs
-* 🌍 Location-based emergency coordination
+* Real-time emergency agency coordination
+* Interactive geospatial map
+* Police, Fire, Medical, and NGO agency management
+* Real-time location updates
+* RESTful APIs
+* MongoDB-based data management
 
 ---
 
-## 🛒 Smart E-Commerce Platform
+### 🛒 Smart E-Commerce Platform
 
-A modern e-commerce application focused on providing a smooth shopping experience with a scalable full-stack architecture.
+A modern full-stack e-commerce application focused on a smooth shopping experience and scalable architecture.
 
-**Tech Stack**
-
+**Tech Stack:**
 `Next.js` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB`
 
-### Key Features
+**Key Features:**
 
-* 🔐 User authentication
-* 🛍️ Product browsing
-* 🔎 Product search
-* 🛒 Shopping cart
-* 📦 Order management
-* 📱 Responsive design
-
----
-
-## 🎮 Tic-Tac-Toe Game
-
-A console-based Tic-Tac-Toe game developed using **C++17 and Object-Oriented Programming** principles.
-
-**Concepts**
-
-`OOP` `Classes & Objects` `Arrays` `Functions` `Game Logic`
+* User authentication
+* Product browsing and search
+* Shopping cart and wishlist
+* Order management
+* Admin dashboard
+* Responsive design
 
 ---
 
-# 🧠 Data Structures & Algorithms
+### 🎮 Tic-Tac-Toe
 
-I regularly practice DSA to improve my problem-solving and coding skills.
+A console-based Tic-Tac-Toe game developed using C++17 and Object-Oriented Programming.
 
-### 📚 Topics
+**Tech Stack:**
+`C++17` `OOP`
 
-`Arrays` • `Strings` • `Linked List` • `Stack` • `Queue`
+**Concepts:**
+Classes & Objects · Arrays · Game Logic · Input Handling
 
-`Binary Search` • `Sorting` • `Recursion` • `Trees`
+---
 
-`Graphs` • `Dynamic Programming`
+## 🧠 Data Structures & Algorithms
 
-### 🎯 Problem Solving
+I regularly practice DSA to improve my problem-solving skills and algorithmic thinking.
 
-<p>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
+**Topics I Practice**
+
+`Arrays` · `Strings` · `Sorting` · `Searching` · `Binary Search` · `Linked List` · `Stack` · `Queue` · `Recursion` · `Trees` · `Graphs` · `Dynamic Programming`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravimaurya123&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravimaurya123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ravimaurya123&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ravimaurya123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Ravimaurya123&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravimaurya123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+* Full-Stack Web Development
+* Data Structures & Algorithms
+* Backend Development
+* REST API Development
+* Database Management
+* System Design Fundamentals
+* Open Source Contribution
 
 ---
 
-# 📈 Contribution Activity
+## 📌 Goals
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravimaurya123&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ravimaurya123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-
-</div>
+* Build production-ready full-stack applications
+* Strengthen DSA and problem-solving skills
+* Improve backend development expertise
+* Learn scalable software architecture
+* Contribute to open-source projects
+* Secure a Software Engineering internship
 
 ---
 
-# 🎯 2026 Goals
+## 🤝 Connect With Me
 
-* 🚀 Build production-ready full-stack applications
-* 🧠 Strengthen Data Structures & Algorithms
-* ⚡ Master Next.js & TypeScript
-* 🏗️ Learn System Design fundamentals
-* 💼 Crack a Software Engineering Internship
-* 🌍 Contribute to Open Source
-* 📚 Keep learning and building consistently
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Ravimaurya123">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
-</div>
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>Build • Learn • Solve • Improve</strong>
+</p>
 
-### 💡 Build • Learn • Solve • Repeat
-
-⭐ **Thanks for visiting my profile!**
-
-</div>
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
