@@ -1,119 +1,163 @@
 # Hi, I'm Ravikant Singh 👋
 
-### Full-Stack Developer | B.Tech CSE | Problem Solver
+### B.Tech CSE Student | Full-Stack Developer | Problem Solver
 
-I'm a Computer Science Engineering student passionate about building practical, scalable, and user-friendly web applications. I enjoy working on both frontend and backend systems while continuously improving my Data Structures, Algorithms, and software engineering skills.
+<p align="left">
+  <a href="https://github.com/Ravimaurya123">
+    <img src="https://img.shields.io/github/followers/Ravimaurya123?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Ravimaurya123">
+    <img src="https://komarev.com/ghpvc/?username=Ravimaurya123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech in Computer Science Engineering
-* 💻 Focused on Full-Stack Web Development
-* 🧠 Practicing Data Structures & Algorithms
-* ⚛️ Working with React.js and Next.js
-* 🛠️ Building backend applications with Node.js and Express.js
-* 🗄️ Working with MongoDB and REST APIs
-* 🌱 Currently improving Backend Development and System Design
-* 🎯 Preparing for Software Engineering opportunities
+I'm a **3rd-year B.Tech Computer Science Engineering student** at Lovely Professional University, passionate about building practical software and improving my problem-solving skills.
+
+- 💻 Focused on **Full-Stack Web Development**
+- 🧠 Practicing **Data Structures & Algorithms**
+- ⚛️ Building applications with **React.js and Next.js**
+- 🚀 Working with **Node.js, Express.js and REST APIs**
+- 🗄️ Experience with **MongoDB and Mongoose**
+- 🔐 Learning authentication, backend architecture and scalable application development
+- 📚 Continuously improving my programming and software engineering fundamentals
+- 🎯 Goal: Build reliable software and grow as a professional Software Developer
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
 
-`Java` · `C++` · `Python` · `JavaScript` · `TypeScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+</p>
 
 ### Frontend
 
-`HTML` · `CSS` · `React.js` · `Next.js` · `Tailwind CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-### Backend
+### Backend & Database
 
-`Node.js` · `Express.js` · `Socket.io` · `REST APIs`
-
-### Database
-
-`MongoDB` · `Mongoose`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### Tools & Platforms
 
-`Git` · `GitHub` · `VS Code` · `Vercel` · `Render`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚨 RescueNet
+### 🌐 RescueNet — Disaster Management Platform
 
-**Real-Time Disaster Management Platform**
+A real-time disaster management platform designed to help coordinate users with Police, Fire, Medical and NGO agencies.
 
-A full-stack platform designed to improve coordination between users and emergency response agencies.
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · Leaflet.js
 
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Leaflet.js`
-
-**Key Features:**
-
-* Real-time emergency agency coordination
-* Interactive geospatial map
-* Police, Fire, Medical, and NGO agency management
-* Real-time location updates
-* RESTful APIs
-* MongoDB-based data management
+🔗 **Repository:**  
+https://github.com/Ravimaurya123/RescueNet-for-Disaster-Management
 
 ---
 
 ### 🛒 Smart E-Commerce Platform
 
-A modern full-stack e-commerce application focused on providing a smooth shopping experience with a scalable architecture.
+A full-stack e-commerce application with authentication, customer/admin roles, product management and order management.
 
-**Tech Stack:**
-`Next.js` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB`
+**Tech Stack:** Next.js · JavaScript · Node.js · MongoDB · JWT
 
-**Key Features:**
-
-* User authentication
-* Product browsing and search
-* Shopping cart and wishlist
-* Order management
-* Admin dashboard
-* Responsive design
+🔗 **Repository:**  
+https://github.com/Ravimaurya123/Smart-Ecommerce
 
 ---
 
-### 🎮 Tic-Tac-Toe
+### 🍽️ Smart Restaurant
 
-A console-based Tic-Tac-Toe game developed using C++17 and Object-Oriented Programming.
+A restaurant management application with menu browsing, cart functionality, checkout, order creation and admin order management.
 
-**Tech Stack:**
-`C++17` `OOP`
+**Tech Stack:** Next.js · JavaScript · MongoDB
 
-**Concepts:**
-Classes & Objects · Arrays · Game Logic · Input Handling
+🔗 **Repository:**  
+https://github.com/Ravimaurya123/smart-Restaurent
 
 ---
 
-## 🧠 Data Structures & Algorithms
+### 🎮 Tic-Tac-Toe Game
 
-I regularly practice DSA to improve my problem-solving skills and algorithmic thinking.
+A console-based Tic-Tac-Toe game developed to practice programming fundamentals and object-oriented programming.
 
-**Topics I Practice**
+**Tech Stack:** C++
 
-`Arrays` · `Strings` · `Sorting` · `Searching` · `Binary Search` · `Linked List` · `Stack` · `Queue` · `Recursion` · `Trees` · `Graphs` · `Dynamic Programming`
+🔗 **Repository:**  
+https://github.com/Ravimaurya123/Tic-Tac_Toe-game
+
+---
+
+## 🧠 DSA & Problem Solving
+
+I regularly practice Data Structures and Algorithms to improve:
+
+- Problem-solving
+- Algorithmic thinking
+- Time & Space Complexity analysis
+- Java programming
+- Competitive programming fundamentals
+
+### LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/lHukd8gKwR/">
+    <img src="https://leetcard.jacoblin.cool/lHukd8gKwR?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravimaurya123&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravimaurya123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ravimaurya123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ravimaurya123&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravimaurya123&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ravimaurya123&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ravimaurya123&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -121,82 +165,62 @@ I regularly practice DSA to improve my problem-solving skills and algorithmic th
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ravimaurya123/Ravimaurya123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-  name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Ravimaurya123
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ravimaurya123/Ravimaurya123/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ravimaurya123/Ravimaurya123/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Ravimaurya123/Ravimaurya123/output/github-snake.svg"
+    />
+  </picture>
 </p>
+
 
 ---
 
 ## 🎯 Current Focus
 
-* Full-Stack Web Development
-* Data Structures & Algorithms
-* Backend Development
-* REST API Development
-* Database Management
-* System Design Fundamentals
-* Open Source Contribution
+- 📌 Data Structures & Algorithms
+- 📌 Full-Stack Web Development
+- 📌 Backend Development
+- 📌 REST API Development
+- 📌 Database Design
+- 📌 Authentication & Authorization
+- 📌 Building real-world projects
+- 📌 Improving problem-solving skills
 
 ---
 
-## 📌 Goals
+## 🚀 Goals
 
-* Build production-ready full-stack applications
-* Strengthen DSA and problem-solving skills
-* Improve backend development expertise
-* Learn scalable software architecture
-* Contribute to open-source projects
-* Secure a Software Engineering internship
+- Build production-ready full-stack applications
+- Strengthen DSA and problem-solving skills
+- Learn better software architecture and backend development
+- Contribute to meaningful open-source projects
+- Prepare for software development opportunities
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ravi-kant-singh-a039ab321">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  <a href="https://github.com/Ravimaurya123">
+    <img src="https://img.shields.io/badge/GitHub-Ravimaurya123-black?style=flat&logo=github" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Build • Learn • Solve • Improve</strong>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
