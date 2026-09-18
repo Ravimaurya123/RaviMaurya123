@@ -4,10 +4,13 @@
 
 <p align="left">
   <a href="https://github.com/Ravimaurya123">
-    <img src="https://img.shields.io/github/followers/Ravimaurya123?label=Followers&style=flat" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/GitHub-Ravimaurya123-181717?style=flat&logo=github" alt="GitHub" />
   </a>
-  <a href="https://github.com/Ravimaurya123">
-    <img src="https://komarev.com/ghpvc/?username=Ravimaurya123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/ravi-kant-singh-a039ab321">
+    <img src="https://img.shields.io/badge/LinkedIn-Ravikant%20Singh-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/lHukd8gKwR/">
+    <img src="https://img.shields.io/badge/LeetCode-lHukd8gKwR-FFA116?style=flat&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
 
@@ -15,28 +18,28 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd-year B.Tech Computer Science Engineering student** at Lovely Professional University, passionate about building practical software and improving my problem-solving skills.
+I'm a **3rd-year B.Tech Computer Science Engineering student** at Lovely Professional University, focused on building practical web applications and strengthening my problem-solving skills.
 
-- 💻 Focused on **Full-Stack Web Development**
+- 💻 Interested in **Full-Stack Web Development**
 - 🧠 Practicing **Data Structures & Algorithms**
 - ⚛️ Building applications with **React.js and Next.js**
 - 🚀 Working with **Node.js, Express.js and REST APIs**
-- 🗄️ Experience with **MongoDB and Mongoose**
-- 🔐 Learning authentication, backend architecture and scalable application development
-- 📚 Continuously improving my programming and software engineering fundamentals
-- 🎯 Goal: Build reliable software and grow as a professional Software Developer
+- 🗄️ Working with **MongoDB and Mongoose**
+- 🔐 Learning authentication, authorization and backend architecture
+- 🛠️ Building practical projects to improve my development skills
+- 🎯 Working towards becoming a professional **Software Developer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
@@ -60,53 +63,78 @@ I'm a **3rd-year B.Tech Computer Science Engineering student** at Lovely Profess
 
 ### 🌐 RescueNet — Disaster Management Platform
 
-A real-time disaster management platform designed to help coordinate users with Police, Fire, Medical and NGO agencies.
+A real-time disaster management platform designed to coordinate users with Police, Fire, Medical and NGO agencies.
 
 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · Leaflet.js
 
-🔗 **Repository:**  
-https://github.com/Ravimaurya123/RescueNet-for-Disaster-Management
+**Key Features:**
+- Real-time communication and updates
+- Geospatial disaster visualization using Leaflet
+- Agency registration and management
+- REST APIs for agency location and status
+- MongoDB-based data management
+
+🔗 **[View Repository](https://github.com/Ravimaurya123/RescueNet-for-Disaster-Management)**
 
 ---
 
 ### 🛒 Smart E-Commerce Platform
 
-A full-stack e-commerce application with authentication, customer/admin roles, product management and order management.
+A full-stack e-commerce application with customer/admin roles, authentication, product management and order management.
 
 **Tech Stack:** Next.js · JavaScript · Node.js · MongoDB · JWT
 
-🔗 **Repository:**  
-https://github.com/Ravimaurya123/Smart-Ecommerce
+**Key Features:**
+- User authentication
+- Customer and Admin roles
+- Product management
+- Order management
+- Protected routes and APIs
+- MongoDB database integration
+
+🔗 **[View Repository](https://github.com/Ravimaurya123/Smart-Ecommerce)**
 
 ---
 
 ### 🍽️ Smart Restaurant
 
-A restaurant management application with menu browsing, cart functionality, checkout, order creation and admin order management.
+A restaurant web application with menu browsing, cart functionality, checkout and admin order management.
 
 **Tech Stack:** Next.js · JavaScript · MongoDB
 
-🔗 **Repository:**  
-https://github.com/Ravimaurya123/smart-Restaurent
+**Key Features:**
+- Restaurant menu
+- Add-to-cart functionality
+- Checkout and order creation
+- Admin order management
+- Order status updates
+- MongoDB integration
+
+🔗 **[View Repository](https://github.com/Ravimaurya123/smart-Restaurent)**
 
 ---
 
 ### 🎮 Tic-Tac-Toe Game
 
-A console-based Tic-Tac-Toe game developed to practice programming fundamentals and object-oriented programming.
+A console-based Tic-Tac-Toe game created to practice programming fundamentals and object-oriented programming.
 
 **Tech Stack:** C++
 
-🔗 **Repository:**  
-https://github.com/Ravimaurya123/Tic-Tac_Toe-game
+**Key Concepts:**
+- Object-Oriented Programming
+- Game logic
+- Conditional statements
+- Loops and functions
+
+🔗 **[View Repository](https://github.com/Ravimaurya123/Tic-Tac_Toe-game)**
 
 ---
 
 ## 🧠 DSA & Problem Solving
 
-I regularly practice Data Structures and Algorithms to improve:
+I regularly practice **Data Structures and Algorithms** to improve my:
 
-- Problem-solving
+- Problem-solving skills
 - Algorithmic thinking
 - Time & Space Complexity analysis
 - Java programming
@@ -116,7 +144,10 @@ I regularly practice Data Structures and Algorithms to improve:
 
 <p align="center">
   <a href="https://leetcode.com/u/lHukd8gKwR/">
-    <img src="https://leetcard.jacoblin.cool/lHukd8gKwR?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+    <img
+      src="https://leetcard.jacoblin.cool/lHukd8gKwR?theme=dark&ext=heatmap"
+      alt="LeetCode Stats"
+    />
   </a>
 </p>
 
@@ -127,7 +158,7 @@ I regularly practice Data Structures and Algorithms to improve:
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Ravimaurya123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
+    alt="Ravikant's GitHub Stats"
   />
 </p>
 
@@ -156,11 +187,12 @@ I regularly practice Data Structures and Algorithms to improve:
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Ravimaurya123&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -199,21 +231,26 @@ I regularly practice Data Structures and Algorithms to improve:
 
 - Build production-ready full-stack applications
 - Strengthen DSA and problem-solving skills
-- Learn better software architecture and backend development
-- Contribute to meaningful open-source projects
-- Prepare for software development opportunities
+- Improve backend and software architecture knowledge
+- Contribute to open-source projects
+- Gain practical software development experience
+- Grow as a professional Software Developer
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ravi-kant-singh-a039ab321">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  <a href="https://github.com/Ravimaurya123">
+    <img src="https://img.shields.io/badge/GitHub-Ravimaurya123-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 
-  <a href="https://github.com/Ravimaurya123">
-    <img src="https://img.shields.io/badge/GitHub-Ravimaurya123-black?style=flat&logo=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/ravi-kant-singh-a039ab321">
+    <img src="https://img.shields.io/badge/LinkedIn-Ravikant%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="https://leetcode.com/u/lHukd8gKwR/">
+    <img src="https://img.shields.io/badge/LeetCode-lHukd8gKwR-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
 
