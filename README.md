@@ -161,7 +161,6 @@ I regularly practice Data Structures and Algorithms to improve:
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -170,19 +169,16 @@ I regularly practice Data Structures and Algorithms to improve:
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Ravimaurya123/RaviMaurya123/output/github-contribution-grid-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Ravimaurya123/RaviMaurya123/output/github-contribution-grid-snake.svg"
     />
-
     <img
       src="https://raw.githubusercontent.com/Ravimaurya123/RaviMaurya123/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
-
 
 ---
 
